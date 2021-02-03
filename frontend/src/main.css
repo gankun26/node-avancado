@@ -1,0 +1,15 @@
+#body_main{
+background-color: aqua;
+text-align: center;
+
+}
+
+#heade_main{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+#mostruario{
+    background-color: rgb(128, 79, 128);
+    color: white;
+}
